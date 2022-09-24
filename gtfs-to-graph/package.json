@@ -1,0 +1,19 @@
+{
+  "name": "gtfs-to-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomasz Swistak",
+  "license": "MIT",
+  "dependencies": {
+    "gtfs": "^3.6.0",
+    "lodash": "^4.17.21"
+  },
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
