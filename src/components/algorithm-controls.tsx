@@ -70,7 +70,7 @@ export const AlgorithmControls = <TNode, TPoint extends Point | MapPoint>({
               </>
             ) : (
               <>
-                <option value={Heuristics.Euclidean}>Euklidejska</option>
+                <option value={Heuristics.Euclidean}>Euklidesowa</option>
                 <option value={Heuristics.Manhattan}>Manhattan</option>
                 <option value={Heuristics.Chebyshev}>Czebyszew</option>
               </>
