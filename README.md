@@ -1,6 +1,6 @@
 # graph-astar
 
-Code for blog article.
+Code for blog article: https://swistak.codes/post/szybkie-wyszukiwanie-sciezek/
 
 Contains:
 
